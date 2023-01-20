@@ -10,3 +10,10 @@ describe("", () => {
     });
   });
 });
+// Your base URL for your API will be: http://localhost:3000
+
+// The endpoints you may need are:
+
+// GET /ramens
+// GET /ramens/:id
+// Feel free to add any additional classes or ids to any elements in the HTML file as you see fit.
